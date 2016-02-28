@@ -1,0 +1,22 @@
+{
+  "name": "start-html-template",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "<ceppantin@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "jquery-smooth-scrolling": "^1.5.2"
+  }
+}
