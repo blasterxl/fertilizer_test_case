@@ -1,19 +1,17 @@
 {
-  "name": "start-html-template",
+  "name": "start-gulp-sass-bourbon-boilerplate",
   "description": "",
   "main": "gulpfile.js",
   "authors": [
     "<ceppantin@gmail.com>"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "moduleType": [],
   "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
   "dependencies": {
     "jquery": "^2.2.1",
