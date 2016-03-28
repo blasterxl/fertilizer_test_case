@@ -30,7 +30,10 @@ var path = {
 
 var config = {
   server: {
-    baseDir: 'dev'
+    baseDir: 'dev',
+    routes:  {
+        '/bower_components': 'bower_components'
+    }
   },
   tunnel: false,
   host: 'localhost',
